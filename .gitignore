@@ -1,1 +1,7 @@
 **/*.egg-info
+**/data/
+**/__pycache__
+**/*.synctex.gz
+**/_minted/
+**/build/
+**/.DS_Store
